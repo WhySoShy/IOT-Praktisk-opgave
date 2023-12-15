@@ -1,6 +1,7 @@
 ### Description
 The program allows 2 Arduino boards to talk to each other through Serial `RX/TX`, to let each other know what `Y Position`, `X/Y Direction` of our ball it should start in, when getting transfered from one 
-screen to another.
+screen to another. </br >
+If you dont start an `Serial` & `Serial1` connection, the Library will start it for you.
 
 #### *Disclaimer*
 We are using an `Arduino Zero` for both boards, and the Setup has only been made for that board. </br >
