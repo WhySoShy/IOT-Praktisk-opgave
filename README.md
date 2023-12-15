@@ -32,7 +32,7 @@ Connect 1 OLED Screen to each of your boards.
 `VCC` -> `3.3V` </br >
 `GND` </br >
 Your 2 boards should have a common ground that you use. </br >
-Upload the (program)[https://github.com/WhySoShy/IOT-Praktisk-opgave/tree/master/Ball_collision] and run it.
+Upload the [program](https://github.com/WhySoShy/IOT-Praktisk-opgave/tree/master/Ball_collision]) and run it.
 
 ### Errors
 #### None of the balls are showing?
@@ -53,5 +53,4 @@ Sometimes the balls can be stuck on the Y Axis, when it reaches absolute 0. We h
 | Type | Name       | Description |
 | ---- | ---------- | ----------- |
 | bool | AtRight    | Determines what side should be collideable and where the balls should start. |
-| bool | isOnScreen | Determines if it should show the ball on the screen.                         |
 | bool | debug      | Lets you see debug messages in the Serial Monitor.                           |
