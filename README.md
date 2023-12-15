@@ -1,5 +1,5 @@
 ### Description
-The program allows 2 Arduino boards to talk to each other through Serial `RX/TX`, to let each other know what `X/Y Position`, `X/Y Direction` and the index of our ball it should start in, when getting transfered from one 
+The program allows 2 Arduino boards to talk to each other through Serial `RX/TX`, to let each other know what `X/Y Position`, `X/Y Direction` and the `index` of our ball it should start in, when getting transfered from one 
 screen to another.
 
 #### *Disclaimer*
