@@ -8,7 +8,7 @@ other boards could work but have not been tested.
 
 ---
 
-### How does it work?
+### Setup
 You connect 2 Arduino boards together through a Serial connection. Your boards should Cross the `RX/TX`. </br >
 <details>
 <summary>Specific connections.</summary>
@@ -32,7 +32,7 @@ Connect 1 OLED Screen to each of your boards.
 `VCC` -> `3.3V` </br >
 `GND` </br >
 Your 2 boards should have a common ground that you use. </br >
-Upload the (program)[] and run it.
+Upload the (program)[https://github.com/WhySoShy/IOT-Praktisk-opgave/tree/master/Ball_collision] and run it.
 
 ### Errors
 #### None of the balls are showing?
